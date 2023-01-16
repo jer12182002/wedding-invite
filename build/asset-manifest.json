@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8ecc816.css",
+    "main.js": "/static/js/main.a0085a3f.js",
+    "static/js/787.1c863b1e.chunk.js": "/static/js/787.1c863b1e.chunk.js",
+    "static/media/firstPage.png": "/static/media/firstPage.46c3a424f325b1440819.png",
+    "static/media/inTrees.jpg": "/static/media/inTrees.61b9aad9a321ae1a877e.jpg",
+    "static/media/background2.jpg": "/static/media/background2.9fc610cc0955d4052d2e.jpg",
+    "static/media/withWinnie.jpg": "/static/media/withWinnie.cc4c0cc233551017b99f.jpg",
+    "static/media/textBg.png": "/static/media/textBg.de4e1d42bf501a1007b6.png",
+    "static/media/background.jpeg": "/static/media/background.2ea657d57427f7937fd2.jpeg",
+    "static/media/party-time.png": "/static/media/party-time.abe4a3fcb279fd360e61.png",
+    "static/media/diamond-ring.png": "/static/media/diamond-ring.5ae7cb9b2d267a774183.png",
+    "static/media/parking-car.png": "/static/media/parking-car.d17a8031d437ddd0f6c0.png",
+    "static/media/eating.png": "/static/media/eating.8e1f4e61b536f5926ef2.png",
+    "index.html": "/index.html",
+    "main.a8ecc816.css.map": "/static/css/main.a8ecc816.css.map",
+    "main.a0085a3f.js.map": "/static/js/main.a0085a3f.js.map",
+    "787.1c863b1e.chunk.js.map": "/static/js/787.1c863b1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8ecc816.css",
+    "static/js/main.a0085a3f.js"
+  ]
+}
